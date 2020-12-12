@@ -10,10 +10,9 @@
 !.vscode/extensions.json
 *.code-workspace
 
-#dependencies
-**/node_modules
+# dependencies
+node_modules
 
-/build
 
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode
